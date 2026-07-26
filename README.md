@@ -16,6 +16,9 @@ You are required to choose between three of the eight following, to decide how t
 Packages used for this repo:
 -  Pandas
 -  Numpy
+-  Seaborn
+-  Matplotlib
+-  Sklearn
 
 
 The following tools were used:
@@ -24,6 +27,8 @@ The following tools were used:
 
 Constrains:
 -  Spotify has 250 million songs, so this only highlights 1686 songs. These are high popularity songs according to spotify.
+
+-  Joey Bada$$ Causes some error when trying to visualise data as matplotlib takes it as a math arguement.
 
 Sources: 
 - Kaggle : https://www.kaggle.com/datasets/solomonameh/spotify-music-dataset
