@@ -34,3 +34,7 @@ Sources:
 - Kaggle : https://www.kaggle.com/datasets/solomonameh/spotify-music-dataset
 
 - W3schools https://www.w3schools.com/python/matplotlib_intro.asp 
+
+-  https://prepinsta.com/learn-data-analytics/decision-tree-regression/
+
+-  https://www.geeksforgeeks.org/machine-learning/regression-metrics/
