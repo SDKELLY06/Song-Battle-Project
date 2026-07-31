@@ -45,11 +45,13 @@ You are required to choose between three of the seven following, to decide how t
 
 - project setup works specific to this dataset, may not work well with other datasets.
 
+- User would have to look at Excel File to see what songs are included in the dataset, a HTML website with a song list / search tab could be helpful in future. 
+
 # Sources: 
 - Kaggle : https://www.kaggle.com/datasets/solomonameh/spotify-music-dataset
 
 - W3schools https://www.w3schools.com/python/matplotlib_intro.asp 
 
--  https://prepinsta.com/learn-data-analytics/decision-tree-regression/
+-  Decision Tree https://prepinsta.com/learn-data-analytics/decision-tree-regression/
 
--  https://www.geeksforgeeks.org/machine-learning/regression-metrics/
+-  MAE, RMSE https://www.geeksforgeeks.org/machine-learning/regression-metrics/
