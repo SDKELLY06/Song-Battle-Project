@@ -1,5 +1,5 @@
 # SONG BATTLE 
-Refreshing my skills and commiting to learn during the summer.
+Aspiring Developer focusing on improving and building my knowledge on machine learning.
 
 # Key Features:
 1. The use of RMSE and MAE
